@@ -1,6 +1,6 @@
 {
   "name": "Mandy Klyne memorial",
   "tagline": "Information about memorial service for Mandy Klyne",
-  "body": "## Maintenance\r\n\r\nTo edit, check out the `gh-pages` branch locally.\r\n\r\nCheck out Pages [documentation](https://help.github.com/pages).\r\n",
+  "body": "## About\r\n\r\nThese web pages will be used to share information about the memorial service for Mandy Klyne, to be held in Oxford at @@TBD on @@TBD.\r\n\r\n\r\n## Maintenance\r\n\r\nTo edit, check out the `gh-pages` branch locally.\r\n\r\nCheck out Pages [documentation](https://help.github.com/pages).\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
