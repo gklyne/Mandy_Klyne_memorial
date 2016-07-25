@@ -1,0 +1,376 @@
+---
+---
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+/* ------------ Core Style -------------- */
+
+body
+{
+    margin-top: 80px ! important;
+}
+
+i
+{
+    text-indent: 0;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+  font-size:14px;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #eee;
+}
+
+th.title {
+  width: 30%;
+}
+
+#wrapper {
+    padding-left: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+
+}
+
+#wrapper.toggled {
+    padding-left: 180px;
+}
+
+
+#picture{
+    width:150px;
+    height:150px;
+    border-radius:5%;
+    background-size: cover;
+    margin-bottom: 8px;
+
+}
+
+.navigation
+{
+    font-size:  1.1em;
+    display: block;
+}
+
+.navigation ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navigation a {
+
+    font-family: "Roboto Condensed", Arial, sans-serif;
+    background-color: #fff;
+    font-size: 13px;
+    line-height: normal;
+    font-style: normal;
+    color: #8C8C8C;
+    font-weight: 300;
+
+}
+
+a {
+    font-size: 18px;
+    font-family: HelveticaNeue;
+    color: rgb(130, 130, 130);
+}
+
+.navigation li
+{
+    line-height: 2.4rem;
+    font-weight: 300;
+}
+
+
+/* --------------- Sidebar --------------- */
+
+#sidebar-wrapper {
+    z-index: 1000;
+    position: fixed;
+    left: 180px;
+    width: 0;
+    height: 100%;
+    margin-left: -180px;
+    overflow-y: auto;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#sidebar-wrapper p {
+font-family: "Roboto Condensed", Arial, sans-serif;
+    background-color: #fff;
+    font-size: 13px;
+    line-height: normal;
+    font-style: normal;
+    color: #8C8C8C;
+    font-weight: 300;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+    width: 180px;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+    display: none;
+    overflow-x: hidden;
+}
+
+#wrapper.toggled #page-content-wrapper {
+    position: absolute;
+    margin-right: -180px;
+}
+
+            /* --------------- Sidebar Nav --------------- */
+.sidebar-nav {
+    width: 180px;
+    margin: 0;
+    padding: 0;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    list-style: none;
+}
+
+.sidebar-nav li {
+    text-indent: 20px;
+    line-height: 30px;
+}
+
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: #AB9BA9;
+}
+
+li.li-no-hover:hover
+{
+    background: #4C9689 !important;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-topright: 10px;
+    -moz-border-radius-bottomright: 0px;
+    -moz-border-radius-bottomleft: 0px;
+    -webkit-border-radius: 10px 10px 0px 0px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+li.li-hover:hover
+{
+    background: #3E313C;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-topright: 10px;
+    -moz-border-radius-bottomright: 0px;
+    -moz-border-radius-bottomleft: 0px;
+    -webkit-border-radius: 10px 10px 0px 0px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+
+.sidebar-nav > .sidebar-brand {
+    height: 65px;
+    line-height: 60px;
+}
+
+.sidebar-nav > .sidebar-brand:hover {
+    background: #4D394B;
+}
+
+.sidebar-nav > .sidebar-brand a {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.sidebar-nav > .sidebar-brand a:hover { /* TBD */
+    color: #fff;
+    background: none;
+}
+
+.sidebar-nav > .sidebar-list-name a { /* Force uppercase */
+    font-size: 14px;
+    font-weight: bold;
+    color: #B3A1AE;
+    pointer-events: none;
+    cursor: default;
+}
+
+.sidebar-nav > .sidebar-list-name a:hover { /* TBD */
+    color: #B3A1AE;
+    background: none;
+}
+
+#social-icons
+{
+    font-size:  1.1em;
+    display: block;
+}
+
+#social-icons ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#social-icons li {
+    display: inline-block;
+    padding-right: 15px;
+}
+
+#social-icons a {
+    font-size: 16px;
+    color: rgb(162, 163, 163);
+}
+
+#sidebar-middle
+{
+    margin-left: 13%;
+}
+
+    /* --------------- Profile Footer --------------- */
+
+
+@media(min-width:768px) {
+    #wrapper {
+        padding-left: 180px;
+    }
+
+    #wrapper.toggled {
+        padding-left: 0;
+    }
+
+    #sidebar-wrapper {
+        width: 180px;
+    }
+
+    #wrapper.toggled #sidebar-wrapper {
+        width: 0;
+    }
+
+    #page-content-wrapper {
+        padding: 20px;
+        position: relative;
+    }
+
+    #wrapper.toggled #page-content-wrapper {
+        position: relative;
+        margin-right: 0;
+    }
+}
+
+.content{
+        font-family: "Roboto Condensed", Arial, sans-serif;
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #666;
+    font-weight: 300;
+}
+
+.content hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #F7F1F1;
+    border-bottom: 1px solid #fff;
+}
+
+.content h1 {
+    font-weight: normal;
+    color: #696969;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.content h2 {
+    font-weight: normal;
+    margin-bottom: 5px;
+    color: #666666;
+    font-weight: bold;
+}
+
+.content h3 {
+    font-weight: normal;
+    margin-bottom: 5px;
+    color: #666666;
+    font-weight: bold;
+}
+
+.content p
+{
+    font-family: "Roboto Condensed", Arial, sans-serif;
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    color: #666666;
+    font-weight: 300;
+}
+
+.content a {
+
+    font-family: "Roboto Condensed", Arial, sans-serif;
+    background-color: #fff;
+    font-size: 16px;
+    line-height: normal;
+    font-style: normal;
+    color: #8C8C8C;
+    font-weight: 300;
+
+}
+
+.content pre
+{
+    border:none;
+    width: 70%;
+
+    /* Generic font style */
+    font-family: Arial,sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 19.2px;
+    word-spacing: 0px;
+    color:#777777;
+}
+
+.content img
+{
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 2px;
+}
+
+#flickr {
+	// max-width: 195px;
+/*  margin-left:-2px;*/
+}
+
+#flickr .images a {
+	display: inline-block;
+	/*margin: 0.5em;*/
+}
+
+#flickr img
+{
+    width:75px;
+    height: 70px;
+    margin:-2px;
+
+}
+
+#flickr .images a img {
+	padding: 5px;
+}
+
