@@ -15,9 +15,16 @@ Further details will be posted here as they come available - please check back f
 
 ----
 
+I've been relying on the grapevine to pass the word among Mandy's friends and ex-colleagues: if you know anyone who knew Mandy and who has not already heard, please forward the link to this page.
+
+It appears that some emails to me at ninebynine.org have gone missing.  If you've contacted me about the service, and received no response, please try resending to [<mandy.klyne.memorial@gmail.com>](mailto:mandy.klyne.memorial@gmail.com).
+
+----
+
 Updates:
 
 * 2016-07-31: [Getting there](./location.html) page updated.
+* 2016-08-01: Added exhortation to share the link to this page; added note about missing emails.
 
 ----
 
