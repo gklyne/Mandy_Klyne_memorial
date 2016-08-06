@@ -44,7 +44,7 @@ We have come believing that all human life is valuable,
 that the truth and integrity and hopefulness  
 which resides in each life, lives on.
 
-We come, believing that Name’s life,  
+We come, believing that Mandy’s life,  
 which we celebrate today   
 and for which we now experience great loss,  
 is joined in the eternal continuum of human endeavour  
@@ -67,7 +67,7 @@ Our lives are more beautiful because we lived with her.
 _(Marie lights first candle @@says?)_
 
 The first candle represents our grief.  
-The pain of losing you Name is still intense.  
+The pain of losing you Mandy is still intense.  
 It reminds us of the depth of our love for you.
 
 _(William lights second candle @@says?)_
@@ -98,9 +98,9 @@ _(Author unknown)_
 
 ## PERSONAL TRIBUTES FROM FAMILY AND FRIENDS
 
-_(Graham, speaking for family ~20mins)_
+### _(Graham, speaking for family ~20mins)_
 
-_(Margaret Stern, speaking for colleagues)_
+### _(Margaret Stern, speaking for colleagues)_
 
 ## _(Music: Show of Hands, Thanks.  ~4 mins)_
 
@@ -137,7 +137,9 @@ _(Author unknown)_
 
 ## _(Harp music)_
 
-## BIBLE READING - 1 Corinthians 13.1-13  [[Becky]]
+## BIBLE READING - 1 Corinthians 13.1-13
+
+_(Becky)_
 
 If I speak in the tongues of mortals and of angels, but do not have love, I am a noisy gong or a clanging cymbal. And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but do not have love, I am nothing. If I give away all my possessions, and if I hand over my body so that I may boast, but do not have love, I gain nothing.
 
