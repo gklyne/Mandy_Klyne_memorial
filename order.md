@@ -4,7 +4,7 @@ title: Order of service
 ---
 
 <center>
-A Service of Thanksgiving for the Life of  
+A Service of Thanksgiving for the life of  
 <br>
 Amanda (Mandy) Klyne  
 <br>
@@ -17,7 +17,7 @@ Held in Wolfson College, Oxford on 12 Aug 2016 at 16:00.
 
 <!-- ![Mandy_in_Norway](images/mandy_25.jpg) -->
 
-@@ Find another picture? @@
+<!-- @@ Find another picture? @@ -->
 
 ## _(Harp music to play as people arrive)_
 
