@@ -15,15 +15,7 @@ Held in Wolfson College, Oxford on 12 Aug 2016 at 16:00.
 <img src="images/mandy_25.jpg" alt="Mandy_in_Norway">
 </center>
 
-<!-- ![Mandy_in_Norway](images/mandy_25.jpg) -->
-
-<!-- @@ Find another picture? @@ -->
-
-## _(Harp music to play as people arrive)_
-
-@@ Discuss: "Amanda" vs "Mandy" @@
-
-@@ A place for thanks? @@
+## _(Music as people arrive. Harpist: Jennifer (Jenny) Hill)_
 
 ## WORDS TO PONDER
 
@@ -33,7 +25,7 @@ _(Jewish advice in death)_
 
 ## WORDS OF WELCOME
 
-We have come together because we loved Mandy  
+We have come together to remember Amanda, known and loved by all as Mandy  
 As wife, mother, sister, colleague, friend.
 
 Here we will mourn her leaving us,  
@@ -60,35 +52,35 @@ lies now within our own lives and travels into the future with us.
 
 Our lives are more beautiful because we lived with her.
 
-## _(Harp music)_
- 
-## CANDLE LITURGY
+## _(Music)_
 
-_(Marie lights first candle @@says?)_
+## REMEMBERING WITH FLOWERS
 
-The first candle represents our grief.  
+_(Marie casts first flower)_
+
+The first flower represents our grief.  
 The pain of losing you Mandy is still intense.  
 It reminds us of the depth of our love for you.
 
-_(William lights second candle @@says?)_
+_(William casts second flower)_
 
-The second candle represents our courage.  
+The second flower represents our courage.  
 To confront our sorrow,  
 To comfort each other,  
 To change our lives.
 
-_(Rhiannon lights third candle)_
+_(Rhiannon casts third flower)_
 
-The third candle we light in your memory, Mandy,  
+The third flower we cast in your memory, Mandy,  
 For the times we laughed,  
 The times we cried,  
 The times we were angry with each other,  
 The silly things you did,  
 The caring and joy you gave us.
 
-_(Ronan lights fourth candle)_
+_(Ronan casts fourth flower)_
 
-The fourth candle we light for our love.  
+The fourth flower we cast for our love.  
 We light this candle that your light will always shine  
 as we share this time of grief and sorrow with family and friends.  
 We cherish the special place in our hearts that will always be reserved for you.  
@@ -96,13 +88,17 @@ We thank you for the gift your living brought to each of us.
 
 _(Author unknown)_
 
+## @@Music interlude between flowers and address??@@
+
 ## PERSONAL TRIBUTES FROM FAMILY AND FRIENDS
 
-### _(Graham, speaking for family ~20mins)_
+### _(Graham, speaking for family)_
+
+### _(Music: Show of Hands, "Thanks")_
 
 ### _(Margaret Stern, speaking for colleagues)_
 
-## _(Music: Show of Hands, Thanks.  ~4 mins)_
+_(@@Contact Margaret; say something about the work that Mandy did?@@)_
 
 ## READING 
 
@@ -135,7 +131,9 @@ Smile, open your eyes, love and go on.
 
 _(Author unknown)_
 
-## _(Harp music)_
+
+## _(Music)_
+
 
 ## BIBLE READING - 1 Corinthians 13.1-13
 
@@ -147,35 +145,20 @@ Love is patient; love is kind; love is not envious or boastful or arrogant or ru
 
 Love never ends.
 
+
 ## ADDRESS
 
 _(Becky - also representing village and friends)_
 
-## _(Harp music)_
 
-## WORDS OF FAREWELL
+## _(Music)_
 
-_(Becky)_
-
-@@ are these words of commital appropriate here? @@
-
-Since Mandy’s life has now come to an end,  
-we commit her body to the elements/ground,  
-which is welcoming to us at the time of our death.  
-Earth to earth, ashes to ashes, dust to dust.  
-In the cycle of life and death the earth is replenished  
-and life is eternally renewed.
-
-To love someone is to risk the pain of parting.  
-Not to love is never to have lived.  
-The grief which we now experience is the honouring of our love.  
-Let us now in a quiet moment make our farewell to Mandy.
 
 ## READING - Desiderata
 
-_(This poem has a long association with Mandy back to her school days.  I recall she had it on her wall or bookshelves through much her time as a student.)_
+_(This poem has a long association with Mandy, going back to her school days.  I recall she had it on her wall or bookshelves through much her time as a student.)_
 
-_(Ian, my cousin)_
+_(Ian Klyne)_
 
 Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.  
 Speak your truth quietly and clearly; and listen to others, even to the dull and the ignorant; they too have their story.  
@@ -187,13 +170,21 @@ Take kindly the counsel of the years, gracefully surrendering the things of yout
 Nurture strength of spirit to shield you in sudden misfortune. But do not distress yourself with dark imaginings. Many fears are born of fatigue and loneliness.  
 Beyond a wholesome discipline, be gentle with yourself. You are a child of the universe no less than the trees and the stars; you have a right to be here.  
 And whether or not it is clear to you, no doubt the universe is unfolding as it should. Therefore be at peace with God, whatever you conceive Him to be.  
-And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.”
+And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.
 
 _(Max Ehrmann)_
 
-## CLOSING???
 
-As we bid farewell to Mandy, let us commit ourselves to loving and supporting those who miss her most, especially all the members of Mandy’s family and close friends.  
+## WORDS OF FAREWELL
+
+_(Becky)_
+
+To love someone is to risk the pain of parting.  
+Not to love is never to have lived.  
+The grief which we now experience is the honouring of our love.  
+Let us now in a quiet moment make our farewell to Mandy.
+
+As we bid farewell to Mandy, let us commit ourselves to loving and supporting each other.
 
 And now let us go into the world,  
 Glad that we have loved,  
@@ -202,20 +193,24 @@ Free to hold each other in our human frailty,
 Determined to live life to the full  
 As did Mandy.  
 
-## The Blessing
-
-And may the love and peace of God,  
-Be with you and those whom you love  
-and with those who love you,  
-today and always. Amen.
 
 ## After the service
 
-Casting of flower petals to the river
+We now listen to Jenny play the "Spring" theme from Vvaldi's "Four Seasons", one of Mandy's favourite pieces of music.  We shall then gather in the Haldane Room for refreshments and to sign the book of remembrance.
 
-As you leave there will be a retiring collection in memory of Mandy for Cancer Research
+There will also be an opportunity for you to remember Mandy in a time of personal reflection as you cast petals from Wolfon's Rainbow Bridge into the Cherwell.
 
-If you have not already done so please sign the Book of Remembrance with your favourite memory of Mandy.
 
-## _(Harp plays us out – Spring theme from Vivaldi's Four Seasons)_
+## _(Music – Spring theme from Vivaldi's Four Seasons)_
 
+<!--
+
+## On back of order of service
+
+_(a key reading (Desiderata?))_
+
+Donations in memory of Mandy will be presented to [Cancer Research](http://www.cancerresearchuk.org).
+
+thanks to... @@draft
+
+-->
