@@ -15,6 +15,8 @@ Held in Wolfson College, Oxford on 12 Aug 2016 at 16:00.
 <img src="images/mandy_25.jpg" alt="Mandy_in_Norway">
 </center>
 
+<!-- @@choose different image@@ ^^^ -->
+
 ## _(Music as people arrive. Harpist: Jennifer (Jenny) Hill)_
 
 ## WORDS TO PONDER
@@ -52,7 +54,7 @@ lies now within our own lives and travels into the future with us.
 
 Our lives are more beautiful because we lived with her.
 
-## _(Music)_
+## _(Music: Debussy - First Arabesque)_
 
 ## REMEMBERING WITH FLOWERS
 
@@ -88,7 +90,9 @@ We thank you for the gift your living brought to each of us.
 
 _(Author unknown)_
 
-## @@Music interlude between flowers and address??@@
+## _(Music: Red is the Rose)_  <!-- Celtic flavour -->
+
+<!-- Flower duet? -->
 
 ## PERSONAL TRIBUTES FROM FAMILY AND FRIENDS
 
@@ -102,7 +106,7 @@ _(@@Contact Margaret; say something about the work that Mandy did?@@)_
 
 ## READING 
 
-_(@@Ask Marie if she'd like to read, else ask Alison)_
+_(Rhiannon)_
 
 You can shed tears that she is gone,  
 Or you can smile because she has lived.
@@ -131,9 +135,9 @@ Smile, open your eyes, love and go on.
 
 _(Author unknown)_
 
+<!-- ## _(Music: Show of Hands, "Drake"?)_ -->
 
-## _(Music)_
-
+## _(Music: Bridge Over Troubled Water)_
 
 ## BIBLE READING - 1 Corinthians 13.1-13
 
@@ -150,9 +154,7 @@ Love never ends.
 
 _(Becky - also representing village and friends)_
 
-
-## _(Music)_
-
+## _(Music: Fields of Gold)_
 
 ## READING - Desiderata
 
@@ -173,7 +175,6 @@ And whether or not it is clear to you, no doubt the universe is unfolding as it 
 And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.
 
 _(Max Ehrmann)_
-
 
 ## WORDS OF FAREWELL
 
