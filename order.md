@@ -83,8 +83,6 @@ The caring and joy you gave us.
 _(Ronan casts fourth flower)_
 
 The fourth flower we cast for our love.  
-We light this candle that your light will always shine  
-as we share this time of grief and sorrow with family and friends.  
 We cherish the special place in our hearts that will always be reserved for you.  
 We thank you for the gift your living brought to each of us.
 
@@ -202,7 +200,7 @@ We now listen to Jenny play the "Spring" theme from Vvaldi's "Four Seasons", one
 There will also be an opportunity for you to remember Mandy in a time of personal reflection as you cast petals from Wolfon's Rainbow Bridge into the Cherwell.
 
 
-## _(Music – Spring theme from Vivaldi's Four Seasons)_
+## _(Music: Spring theme from Vivaldi's Four Seasons)_
 
 <!--
 

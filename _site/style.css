@@ -277,6 +277,10 @@ li.li-hover:hover {
   margin: 0 0 1rem;
   border-radius: 2px; }
 
+div.related-image > img {
+  display: inline-block;
+  height: 120px; }
+
 #flickr {
   /*  margin-left:-2px;*/ }
 
@@ -291,3 +295,15 @@ li.li-hover:hover {
 
 #flickr .images a img {
   padding: 5px; }
+
+/* page breaks for printing */
+@media all {
+  .page-break {
+    display: none; } }
+@media print {
+  .page-break {
+    display: block;
+    page-break-before: always; }
+
+  #print-wrapper > #page-content-wrapper {
+    padding: 0px; } }
