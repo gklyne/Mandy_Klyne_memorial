@@ -10,7 +10,7 @@ Amanda (Mandy) Klyne
 <br>
 1955 - 2016  
 <br>
-Held in Wolfson College, Oxford on 12 Aug 2016 at 16:00.  
+in Wolfson College, Oxford on 12 Aug 2016 at 16:00.  
 <br>
 <img src="images/mandy_25.jpg" alt="Mandy_in_Norway">
 </center>
@@ -93,6 +93,8 @@ _(Author unknown)_
 <!-- Flower duet? -->
 
 ## PERSONAL TRIBUTES FROM FAMILY AND FRIENDS
+
+### _(Becky, on Mandy's early home life)_
 
 ### _(Graham, speaking for family)_
 
