@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eulogy for Mandy
+title: Eulogy for Mandy by Graham Klyne
 ---
 
 <!-- # Eulogy for Mandy -->
@@ -82,6 +82,7 @@ But it was later this same year that Mandy was handed her initial diagnosis of L
 
 <div class="related-image">
 <img src="images/rhiannon_wedding.jpg" />
+<img src="images/ronan_wedding.jpg" />
 </div>
 
 
@@ -113,7 +114,9 @@ Mandy took her responsibilities as a grandmother very seriously, ensuring her gr
 
 We believe these are the last pictures taken of Mandy. She was indulging Lily by letting her eat lunch whilst sat on her lap, resulting in red pepper humous on her face.  When we noticed, we could not stop laughing long enough to tell her what was so funny - so Rhiannon took this picture. 
 
-Her death brings an overwhelming sadness, not just because we shall miss her, but also because Lily will not remember her consciously and will miss out on having the most incredible grandmother.  With words of comfort, a friend of Rhiannon's said "bits of Lily's frontal lobe have been shaped by her, and that can't be undone". 
+Her death brings an overwhelming sadness, not just because we shall miss her, but also because Lily will not remember her consciously and will miss out on having the most incredible grandmother.  With words of comfort, a friend of Rhiannon’s said that Mandy would have had a deep and lasting impact on Lily's early development
+
+<!-- a friend of Rhiannon's said "bits of Lily's frontal lobe have been shaped by her, and that can't be undone". -->
 
 <div class="page-break"></div>
 
@@ -164,10 +167,10 @@ So I also look forward to carrying forward a life enriched by memories of our ti
 
 <div class="related-image">
 <img src="images/early_mandy.jpg" />
-<img src="images/river.jpg" />
 <img src="images/mandy.jpg" />
-<img src="images/cake_smartie_flower.jpg" />
 <img src="images/rhiannon_wedding.jpg" />
+<img src="images/river.jpg" />
+<img src="images/cake_smartie_flower.jpg" />
 </div>
 
 I'll finish up with a song by Show of Hands, a contemporary West Country folk duo, whom we both loved and saw live many times.  Much of their original music is rooted in the coastal and rural communities of Devon and Cornwall, not unlike the Isle of Wight where Mandy and I grew up. They combine exquisite musicianship with an acerbic political wit and keen observations of the human condition.
