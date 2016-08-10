@@ -102,8 +102,6 @@ _(Author unknown)_
 
 ### _(Margaret Stern, speaking for colleagues)_
 
-_(@@Contact Margaret; say something about the work that Mandy did?@@)_
-
 ## READING 
 
 _(Rhiannon)_
