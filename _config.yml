@@ -1,8 +1,8 @@
 # Site settings
 title: Remembering Mandy Klyne
 email: mandy.klyne.memorial@gmail.com
-# baseurl: "" # Site hosted in top directory of specified host
-baseurl: "/Mandy_Klyne_memorial" # the subpath of your site, e.g. /blog
+baseurl: "" # Site hosted in top directory of specified host
+# baseurl: "/Mandy_Klyne_memorial" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
