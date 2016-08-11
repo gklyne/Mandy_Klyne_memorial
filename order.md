@@ -12,6 +12,7 @@ Amanda (Mandy) Klyne
 <br>
 in Wolfson College, Oxford on 12 Aug 2016 at 16:00.  
 <br>
+<br>
 <img src="images/mandy_25.jpg" alt="Mandy_in_Norway">
 </center>
 
@@ -115,7 +116,7 @@ Or you can open your eyes,
 And see all she’s left.
 
 Your heart can be empty,  
-Because you can’t see here,  
+because you can’t see her,  
 Or you can be full of the love you shared.
 
 You can turn your back on tomorrow  
@@ -193,23 +194,26 @@ Determined to live life to the full
 As did Mandy.  
 
 
-## After the service
+## CLOSING COMMENTS
 
 We now listen to Jenny play the "Spring" theme from Vvaldi's "Four Seasons", one of Mandy's favourite pieces of music.  We shall then gather in the Haldane Room for refreshments and to sign the book of remembrance.
 
 There will also be an opportunity for you to remember Mandy in a time of personal reflection as you cast petals from Wolfon's Rainbow Bridge into the Cherwell.
 
-
 ## _(Music: Spring theme from Vivaldi's Four Seasons)_
 
-<!--
+----
 
-## On back of order of service
+# To be followed by
 
-_(a key reading (Desiderata?))_
+A buffet reception in the Haldane Room.
 
-Donations in memory of Mandy will be presented to [Cancer Research](http://www.cancerresearchuk.org).
+There will be a book of remembrance in which guests are enjoined to write their favourite memories and thoughts about Mandy.  Also, there will be an opportunity for you to remember Mandy in personal reflection, casting petals from Wolfon's Rainbow Bridge onto the Cherwell.
 
-thanks to... @@draft
+Donations in memory of Mandy, if offered, will be presented to [Cancer Research](http://www.cancerresearchuk.org).
 
--->
+<hr>
+
+<center>
+<a href="http://mandy.klyne.memorial.onl/">mandy.klyne.memorial.onl</a>	
+</center>

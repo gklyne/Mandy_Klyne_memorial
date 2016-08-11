@@ -32,7 +32,7 @@ Mandy loved the sea and open spaces of the Isle of Wight... her love of living w
 <img src="images/early_group.jpg" />
 </div>
 
-Soon after, Mandy too left for University, where she studied Human Biology, which was roughly a study of the biological science that underpins medical practice.  This would serve her well in her later career.  During this period, we continued our relationship over some distance, with regular traveling between Loughborough and Bath where she and I respectively studied.
+Soon after, Mandy too left for University, to study Human Biology, which was roughly a study of the biological science that underpins medical practice.  This would serve her well in her later career.  During this period, we continued our relationship over some distance, with regular traveling between Loughborough and Bath where she and I respectively studied.
 
 On completing her degree, in a pattern of caring behaviour that would be typical throughout her life, she delayed starting her first employment and returned home to help care for her mother, who was at the time suffering from depression.
 
@@ -43,6 +43,7 @@ On completing her degree, in a pattern of caring behaviour that would be typical
 <div class="related-image">
 <img src="images/wedding.jpg" />
 </div>
+
 Mandy's early career was with a medical electronics company in Woking, providing general technical and documentation support for the medical diagnostic systems they made.  I had taken a job in Epsom, and bought a flat there; the job was short-lived and I took a contract in Newcastle, commuting weekly from Epsom. During this period, we somehow managed to find time to become engaged. We were married in St Peter's Church in her family's home village of Seaview on the Isle of Wight, and she set about making the flat in Epsom into our first family home.
 
 It was Mandy who spotted, and encouraged me to apply for, the job with Oxford Instruments that caused us to move to the Oxford area in 1980, without having any idea of what work she might find.  In a change of direction that established her main career, she found work with a local medical publishing company as a trainee sub-editor.  Over the years, she honed her skills and became managing editor of a respected medical journal.
@@ -112,9 +113,9 @@ We were fortunate to have the extra time that was not foreseen, particularly our
 
 Mandy took her responsibilities as a grandmother very seriously, ensuring her granddaughter Lily was spoilt with attention in a way that parents can never do.
 
-We believe these are the last pictures taken of Mandy. She was indulging Lily by letting her eat lunch whilst sat on her lap, resulting in red pepper humous on her face.  When we noticed, we could not stop laughing long enough to tell her what was so funny - so Rhiannon took this picture. 
+We believe these are the last pictures taken of Mandy. She was indulging Lily by letting her eat lunch whilst sat on her lap, resulting in red pepper humous on her face.  When we noticed, we could not stop laughing long enough to tell Mandy what was so funny - so Rhiannon took this picture. 
 
-Her death brings an overwhelming sadness, not just because we shall miss her, but also because Lily will not remember her consciously and will miss out on having the most incredible grandmother.  With words of comfort, a friend of Rhiannon’s said that Mandy would have had a deep and lasting impact on Lily's early development
+Her death brings an overwhelming sadness, not just because we shall miss her, but also because Lily will not remember her consciously and will miss out on having the most incredible grandma.  With words of comfort, a friend of Rhiannon's said "bits of Lily’s frontal lobe have been shaped by Mandy, and that can’t be undone".
 
 <!-- a friend of Rhiannon's said "bits of Lily's frontal lobe have been shaped by her, and that can't be undone". -->
 
@@ -122,7 +123,6 @@ Her death brings an overwhelming sadness, not just because we shall miss her, bu
 
 ## The final weeks and hours
 
-(image: cakes!)
 <div class="related-image">
 <img src="images/cake_smartie_flower.jpg" />
 <img src="images/cake_half_birthday.jpg" />
