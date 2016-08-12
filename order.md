@@ -101,7 +101,7 @@ _(Author unknown)_
 
 ### _(Music: Show of Hands, "Thanks")_
 
-### _(Margaret Stern, speaking for colleagues)_
+### _(Margaret Stearn, speaking for colleagues)_
 
 ## READING 
 
@@ -175,7 +175,7 @@ And whatever your labors and aspirations, in the noisy confusion of life, keep p
 
 _(Max Ehrmann)_
 
-## WORDS OF FAREWELL
+## WORDS OF FAREWELL and BLESSING
 
 _(Becky)_
 
@@ -183,6 +183,21 @@ To love someone is to risk the pain of parting.
 Not to love is never to have lived.  
 The grief which we now experience is the honouring of our love.  
 Let us now in a quiet moment make our farewell to Mandy.
+
+:
+
+Deep peace of the running wave to you  
+Deep peace of the flowing air to you  
+Deep peace of the quiet earth to you  
+Deep peace of the shining stars to you  
+Deep peace of the gentle night to you  
+Moon and stars pour their healing light on you
+
+Deep peace of Christ the light of the world to you
+
+Deep peace of Christ to you
+
+:
 
 As we bid farewell to Mandy, let us commit ourselves to loving and supporting each other.
 
@@ -196,7 +211,7 @@ As did Mandy.
 
 ## CLOSING COMMENTS
 
-We now listen to Jenny play the "Spring" theme from Vvaldi's "Four Seasons", one of Mandy's favourite pieces of music.  We shall then gather in the Haldane Room for refreshments and to sign the book of remembrance.
+We now listen to Jenny play the "Spring" theme from Vivaldi's "Four Seasons", one of Mandy's favourite pieces of music.  We shall then gather in the Haldane Room for refreshments and to sign the book of remembrance.
 
 There will also be an opportunity for you to remember Mandy in a time of personal reflection as you cast petals from Wolfon's Rainbow Bridge into the Cherwell.
 
