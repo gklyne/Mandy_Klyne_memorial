@@ -26,6 +26,7 @@ Updates:
 * 2016-07-31: [Getting there](./location.html) page updated.
 * 2016-08-01: Added exhortation to share the link to this page; added note about missing emails.
 * 2016-08-11: Added page content for order of service.  Added pages for donations and thanks.
+* 2016-08-12: Add sidebar link to eulogy.
 
 ----
 
