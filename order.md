@@ -175,6 +175,22 @@ And whatever your labors and aspirations, in the noisy confusion of life, keep p
 
 _(Max Ehrmann)_
 
+## BLESSING
+
+_(Becky)_
+
+Deep peace of the running wave to you  
+Deep peace of the flowing air to you  
+Deep peace of the quiet earth to you  
+Deep peace of the shining stars to you  
+Deep peace of the gentle night to you  
+Moon and stars pour their healing light on you
+
+Deep peace of Christ the light of the world to you
+
+Deep peace of Christ to you
+
+
 ## WORDS OF FAREWELL
 
 _(Becky)_
